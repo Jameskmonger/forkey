@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jameskmonger/forkeys/issues"
   },
-  "homepage": "https://github.com/Jameskmonger/forkeys"
+  "homepage": "https://github.com/Jameskmonger/forkeys",
+  "files": [
+      "index.js"
+  ]
 }
