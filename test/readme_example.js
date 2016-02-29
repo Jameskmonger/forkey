@@ -8,4 +8,8 @@ const forkeys = require('../index.js');
         secondKey: "bla",
         final_key: "last one"
     };
+
+    forkeys(obj, (key) => {
+        
+    });
 })();
