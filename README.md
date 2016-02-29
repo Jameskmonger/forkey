@@ -25,4 +25,4 @@ const forkeys = require('../index.js');
 ```
 
 ## License
-Created by [jameskmonger](http://github.com/jameskmonger)
+Created by [jameskmonger](http://github.com/jameskmonger), licensed under [The Unlicense](http://unlicense.org).
