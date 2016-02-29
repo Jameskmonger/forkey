@@ -1,4 +1,4 @@
-# forkey
+# forkeys
 
 A wrapper around `Object.keys(...).forEach(...)`.
 
