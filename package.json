@@ -1,6 +1,6 @@
 {
   "name": "forkeys",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A wrapper around Object.keys(...).forEach(...)",
   "main": "index.js",
   "scripts": {
