@@ -1,3 +1,3 @@
 # forkey
 
-A wrapper around `Object.keys(...)`.
+A wrapper around `Object.keys(...).forEach(...)`.
