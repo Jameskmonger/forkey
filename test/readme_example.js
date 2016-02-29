@@ -10,6 +10,6 @@ const forkeys = require('../index.js');
     };
 
     forkeys(obj, (key) => {
-        
+        console.log(`forkeys: key: ${key}, val: ${obj[key]}`);
     });
 })();
