@@ -1,3 +1,3 @@
 ((m) => {
-
+    "use strict";
 })(module);
