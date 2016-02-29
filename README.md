@@ -23,3 +23,6 @@ const forkeys = require('../index.js');
     });
 })();
 ```
+
+## License
+Created by [jameskmonger](http://github.com/jameskmonger)
