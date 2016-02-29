@@ -1,0 +1,19 @@
+{
+  "name": "forkeys",
+  "version": "0.0.0",
+  "description": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jameskmonger/forkeys.git"
+  },
+  "author": "James Monger <jameskmonger@hotmail.co.uk>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/Jameskmonger/forkeys/issues"
+  },
+  "homepage": "https://github.com/Jameskmonger/forkeys"
+}
